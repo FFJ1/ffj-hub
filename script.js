@@ -6,6 +6,6 @@ let GenKey = () => {
 
 let BuyKey = () => {
 	setTimeout(() => {
-		window.location.href = "https://ffj.sellsn.io"
+		window.location.href = "https://ffj.mysellauth.com/products/ffj-hub"
 	}, 1000)
 }
